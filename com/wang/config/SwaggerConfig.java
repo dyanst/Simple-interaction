@@ -19,11 +19,11 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo(){
         return new ApiInfo(
-                "Api Dyanst",
-                "起飞",
+                "Api",
+                "",
                 "v0.1",
                 "http://fysnst.cn/",
-                new Contact("wl","http://fysnst.cn/","3421239367@qq.com"),
+                new Contact("","",""),
                 "Apache 2.0",
                 "",
                 new ArrayList());
