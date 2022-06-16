@@ -22,7 +22,7 @@ public class SwaggerConfig {
                 "Api",
                 "",
                 "v0.1",
-                "http://fysnst.cn/",
+                "",
                 new Contact("","",""),
                 "Apache 2.0",
                 "",
